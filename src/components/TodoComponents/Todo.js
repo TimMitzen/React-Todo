@@ -12,7 +12,7 @@ export default class Todo extends Component {
    
    
     
-   <p>{this.props.todo.id}</p>
+   <p>{this.props.todo.task}</p>
    
    
    </div>  
